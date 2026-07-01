@@ -8,10 +8,6 @@ Full Stack Developer • React • Next.js • React Native • Node.js
 Building modern web & mobile applications with clean architecture and great user experience.
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Mitesh5-5-7-6&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
 ## 🚀 About Me
 
 - 💼 Software Developer passionate about building scalable web & mobile applications
@@ -27,7 +23,7 @@ Building modern web & mobile applications with clean architecture and great user
 📈 AI Trading & Paper Trading Platform
 🍱 Cinematic Tiffin Landing Page
 📱 React Native Healthcare Application
-🧩 Mock API Browser Extension
+🧩 Mock API Developer Toolkit
 
 ## 💻 Tech Stack
 
@@ -109,21 +105,33 @@ A complete digital solution for tiffin service businesses, including a cinematic
 
 ---
 
-### 🧩 Mock API Browser Extension
-A browser extension that enables frontend developers to create, intercept, and manage mock REST APIs without relying on backend services.
+### 🧩 Mock API Developer Toolkit
+
+A developer productivity toolkit that simplifies frontend development by eliminating backend dependencies. The ecosystem includes a **VS Code Extension**, a **Web Dashboard**, and a **Browser Extension**, allowing developers to create, manage, and consume mock REST APIs from a unified platform.
 
 **Highlights**
-- ⚡ Instant mock API generation
-- 🔄 Request interception
-- 📁 Collection management
-- 🧪 API testing utilities
-- 💾 Local storage support
+- 🧩 VS Code Extension for instant mock API creation
+- 🌐 Web dashboard for centralized API management
+- 🌍 Browser Extension for request interception and testing
+- ⚡ One-click mock endpoint generation
+- 🔄 Dynamic request & response customization
+- 📁 Workspace-based API collections
+- 🧪 Built-in API testing and debugging tools
+- 💾 Local & cloud synchronization
+- 🔐 Secure project-based configuration
+- 🚀 Designed to accelerate frontend development without waiting for backend APIs
 
 **Tech Stack**
 - TypeScript
 - React
+- Next.js
+- Node.js
+- VS Code Extension API
 - Chrome Extension API
+- REST APIs
 - Vite
+- Local Storage
+- MongoDB
 
 ---
 
