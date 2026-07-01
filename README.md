@@ -159,7 +159,7 @@ A complete healthcare management solution consisting of a web public site and an
 ## 🌐 Connect With Me
 
 [LinkedIn](https://www.linkedin.com/in/mitesh-sonagra)
-[Email](mitesh.sonagra.dev@gmail.com)
+[Email](mailto:mitesh.sonagra.dev@gmail.com)
 [Instagram](https://www.instagram.com/mitesh_sonagra_)
 
 ## ⚡ Fun Facts
