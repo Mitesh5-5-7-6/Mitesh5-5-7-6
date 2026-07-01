@@ -24,11 +24,10 @@ Building modern web & mobile applications with clean architecture and great user
 
 ## 🚀 Currently Working On
 
-🧵 AI Tailoring Platform
+📈 AI Trading & Paper Trading Platform
 🍱 Cinematic Tiffin Landing Page
 📱 React Native Healthcare Application
-📈 AI Trading & Paper Trading Platform
-📬 Mail Management System for BAPS Organization
+🧩 Mock API Browser Extension
 
 ## 💻 Tech Stack
 
