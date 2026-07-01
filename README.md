@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mitesh Sonagra</h1>
 
 <h3 align="center">
-Full Stack JavaScript Developer • React • Next.js • React Native • Node.js
+Full Stack Developer • React • Next.js • React Native • Node.js
 </h3>
 
 <p align="center">
@@ -39,7 +39,7 @@ React • Next.js • AngularJS • TypeScript • JavaScript • HTML • CSS �
 React Native • Expo
 
 ### Backend
-Node.js • Express • MongoDB • Firebase • REST APIs • GraphQL
+Node.js • Express • MongoDB • Firebase • REST APIs
 
 ### State Management
 Redux • React Query • Context API • React Hook Form
