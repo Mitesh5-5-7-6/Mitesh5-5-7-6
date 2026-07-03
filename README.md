@@ -83,6 +83,44 @@ Building features step by step with a focus on scalability, performance, and rea
 
 ---
 
+### 🧩 Mock API Developer Toolkit
+
+A comprehensive developer platform that enables frontend teams to build, test, and validate applications without waiting for backend services. The toolkit provides a **VS Code Extension**, **Web Dashboard**, and **Browser Extension** for creating production-ready mock APIs, generating validation schemas, and hosting endpoints instantly.
+
+**Highlights**
+- 🧩 VS Code Extension for creating and managing mock APIs directly from your workspace
+- 🌐 Web Dashboard for centralized project, endpoint, and API collection management
+- 🌍 Browser Extension for intercepting network requests and switching between live & mock APIs
+- ⚡ One-click hosted mock API deployment with shareable REST endpoints
+- 🔗 Instant hosted backend URL generation for frontend integration
+- 📝 Automatic request & response schema generation
+- ✅ Generate **Zod** or **Yup** validation schemas based on developer preference
+- 🔷 Auto-generated TypeScript interfaces and API types
+- 🎲 Smart mock data generation with support for custom field types
+- 🔄 Dynamic CRUD endpoint creation (GET, POST, PUT, PATCH, DELETE)
+- 📁 Workspace & project-based API organization
+- 🧪 Built-in API testing, debugging, and response preview
+- 🔐 Secure API key & project management
+- 💾 Local & cloud synchronization
+- 🚀 Eliminates backend dependency during frontend development
+
+**Tech Stack**
+- TypeScript
+- React
+- Next.js
+- Node.js
+- Express.js
+- MongoDB
+- REST APIs
+- VS Code Extension API
+- Chrome Extension API
+- Vite
+- Zod
+- Yup
+- Local Storage
+
+---
+
 ### 🍱 Smart Tiffin Platform
 A complete digital solution for tiffin service businesses, including a cinematic marketing website, an admin dashboard, and a mobile application for daily operations.
 
@@ -102,36 +140,6 @@ A complete digital solution for tiffin service businesses, including a cinematic
 - Node.js
 - GSAP
 - Framer Motion
-
----
-
-### 🧩 Mock API Developer Toolkit
-
-A developer productivity toolkit that simplifies frontend development by eliminating backend dependencies. The ecosystem includes a **VS Code Extension**, a **Web Dashboard**, and a **Browser Extension**, allowing developers to create, manage, and consume mock REST APIs from a unified platform.
-
-**Highlights**
-- 🧩 VS Code Extension for instant mock API creation
-- 🌐 Web dashboard for centralized API management
-- 🌍 Browser Extension for request interception and testing
-- ⚡ One-click mock endpoint generation
-- 🔄 Dynamic request & response customization
-- 📁 Workspace-based API collections
-- 🧪 Built-in API testing and debugging tools
-- 💾 Local & cloud synchronization
-- 🔐 Secure project-based configuration
-- 🚀 Designed to accelerate frontend development without waiting for backend APIs
-
-**Tech Stack**
-- TypeScript
-- React
-- Next.js
-- Node.js
-- VS Code Extension API
-- Chrome Extension API
-- REST APIs
-- Vite
-- Local Storage
-- MongoDB
 
 ---
 
