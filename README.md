@@ -119,6 +119,10 @@ A comprehensive developer platform that enables frontend teams to build, test, a
 - Yup
 - Local Storage
 
+### 📌 Current Status
+**🚧 In Active Development**
+Building features step by step with a focus on scalability and performance.
+
 ---
 
 ### 🍱 Smart Tiffin Platform
